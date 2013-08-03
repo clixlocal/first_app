@@ -1,4 +1,4 @@
 class User < ActiveRecord::Base
-	has_many :micropost
+	has_many :microposts
 
 end
